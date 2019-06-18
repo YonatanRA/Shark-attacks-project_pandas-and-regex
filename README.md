@@ -4,22 +4,15 @@
 
 ## Overview
 
-The goal of this project is to combine everything you have learned about data wrangling, cleaning, and manipulation with Pandas so you can see how it all works together. For this project, you will start with this messy data set [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks/version/1). You will need to import it, use your data wrangling skills to clean it up, prepare it to be analyzed, and then export it as a clean CSV data file.
-
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
-
+The goal of this project is to combine data wrangling, cleaning, and manipulation with Pandas, besides Regex. The dataset is given by [Shark Attack](https://www.kaggle.com/teajay/global-shark-attacks). 
 ---
 
-## Technical Requirements
+## Goals
 
-The technical requirements for this project are as follows:
+ My goal es relacionar la mortalidad y el tipo de daños causados con la especie de tiburon para descubrir, no solo que especie es la que genera mayor tasa de mortalidad, sino tambien que especie provoca mayores daños no mortales.
 
-* The dataset that we provide you is a significantly messy data set. Apply the different cleaning and manipulation techniques you have learned.
-* Import the data using Pandas.
-* Examine the data for potential issues.
-* Use at least 8 of the cleaning and manipulation methods you have learned on the data.
-* Produce a Jupyter Notebook that shows the steps you took and the code you used to clean and transform your data set.
-* Export a clean CSV version of your data using Pandas.
+En una segunda parte intentare construir una serie temporal con esa informacion para tratar de responder una pregunta: ¿los tiburones se estan volviendo mas agresivos con el tiempo?.
+De ser cierto, ¿esta relacionado con la actividad humana?
 
 ## Necessary Deliverables
 
