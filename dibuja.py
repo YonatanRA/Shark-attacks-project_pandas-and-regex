@@ -49,3 +49,6 @@ def dibuja(datos):
 	return "Tipo de ataque: '0'=sin daños, '1'=daño bajo, '2'=daño medio, '3'=daño alto, '4'=mortal\
 	        \
 	                Plots de las 6 especies de tiburón que más atacan." 
+
+
+
