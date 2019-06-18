@@ -16,5 +16,5 @@ As a second goal, I build a temporal series with that info to answer: are sharks
 
 ## Files
 
-
+The files dibuja.py and dibuja2.py are for barplots and time series plots. The file regEX.py and shark.py are for the regular expression cleaning of the species. shark_attack.py and data-wrangling.ipynb are the project notebooks. 
 
