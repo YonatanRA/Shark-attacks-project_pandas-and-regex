@@ -1,6 +1,6 @@
 ![W-Shark](https://github.com/YonatanRA/Shark-attacks-project_pandas-and-regex/blob/master/w_shark.jpg)
 
-# Guided Project: Demonstration of Data Cleaning and Manipulation with Pandas
+# Shark Attacks Project: Using Pandas and Regex
 
 ## Overview
 
