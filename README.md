@@ -12,8 +12,7 @@ The goal of this project is to combine data wrangling, cleaning, and manipulatio
 My goal is to relate mortality and the kind of damage with shark species to find out which specie has the greatest mortality rate and which one provokes the biggest non-mortal damages. 
 
 
-As a second goal, I build a temporal series with that info to answer: ¿los tiburones se estan volviendo mas agresivos con el tiempo?.
-De ser cierto, ¿esta relacionado con la actividad humana?
+As a second goal, I build a temporal series with that info to answer: are sharks becoming more aggressives over time? If true, is related with human activities?
 
 ## Files
 
