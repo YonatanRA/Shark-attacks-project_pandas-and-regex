@@ -1,4 +1,4 @@
-![W-Shark](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+![W-Shark](https://github.com/YonatanRA/Shark-attacks-project_pandas-and-regex/blob/master/w_shark.jpg)
 
 # Guided Project: Demonstration of Data Cleaning and Manipulation with Pandas
 
